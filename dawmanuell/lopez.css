@@ -1,0 +1,34 @@
+
+            body {
+                background-color: beige;
+            }
+            h1 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 20 round;
+            }
+            .borde2 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 20 stretch;
+            }
+            .borde3 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 20 space;
+            }
+            .borde4 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 30 repeat;
+            }
+            .borde5 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 50 round;
+            }
+            .borde6 {
+                color: orange;
+                border: 30px solid;
+                border-image: url("border.png") 10 space;
+            }
